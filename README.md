@@ -1,1 +1,1 @@
-# test-shopify-theme
+# shopify-theme-test
